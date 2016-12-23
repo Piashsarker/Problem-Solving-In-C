@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1482061397 source:h:\problem solving\test\main.c
-	<stdio.h>
-	<stdlib.h>
-
-1482061319 source:h:\problem solving\test\perfectnumber.c
-	<stdio.h>
-	<stdlib.h>
-

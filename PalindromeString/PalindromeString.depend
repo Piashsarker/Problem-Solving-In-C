@@ -1,5 +1,0 @@
-# depslib dependency file v1.0
-1482112711 source:h:\problem solving\palindromestring\main.c
-	<string.h>
-	<stdio.h>
-
